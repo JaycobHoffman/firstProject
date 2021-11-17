@@ -1,1 +1,48 @@
 * {background-color: BlanchedAlmond;}
+.logo{
+  font-size: 3rem;
+  color: brown;
+}
+.heading{
+  color: brown;
+}
+
+h3{
+  color: brown;
+}
+
+h4{
+  color: brown;
+}
+
+#symbol{
+  color: blue;
+}
+
+#c{
+  color:red;
+}
+#h{
+  color: orange;
+}
+#e{
+  color: indigo;
+}
+#m{
+  color: green;
+}
+#i{
+  color: blue;
+}
+#s{
+  color: indigo;
+}
+#t{
+  color: violet;
+}
+#r{
+  color: red;
+}
+#y{
+  color: orange;
+}
