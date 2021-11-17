@@ -2,6 +2,7 @@
 .logo{
   font-size: 3rem;
   color: brown;
+  text-align: center;
 }
 .heading{
   color: brown;
@@ -45,4 +46,8 @@ h4{
 }
 #y{
   color: orange;
+}
+
+.copyright{
+  text-align: center;
 }
