@@ -1,5 +1,5 @@
 * {
-  background-color: #7df2ff;
+  background-color: #99FAC3;
   letter-spacing: -1px;
   word-spacing: 1px;
 }
@@ -64,16 +64,16 @@ h1{
 }
 
 #symbol{
-  color: blue;
+  color: #7D8EF0;
 }
 
 h2{
-  color: #389100;
+  color: #F77136;
   font-family: 'Fauna One', serif;
 }
 
 h3{
-  color: #389100;
+  color: #B434ED;
   font-family: 'Fauna One', serif;
 }
 
@@ -92,6 +92,6 @@ p {
 
 a{
   font-family: 'Playfair Display', serif;
-  color: #389100;
+  color: #F77136;
   font-weight: bolder;
 }
