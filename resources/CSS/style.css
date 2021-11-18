@@ -1,10 +1,60 @@
 * {background-color: BlanchedAlmond;}
-.logo{
-  font-size: 3rem;
-  color: brown;
+
+.center{
   text-align: center;
 }
-.heading{
+
+h1{
+  font-size: 3rem;
+  color: brown;
+}
+
+#c{
+  color: red;
+}
+
+#h{
+  color: orange;
+}
+
+#e{
+  color: indigo;
+}
+
+#m{
+  color: green;
+}
+
+#i{
+  color: blue;
+}
+
+#s{
+  color: indigo;
+}
+
+#t{
+  color: violet;
+}
+
+#r{
+  color: red;
+}
+
+#y{
+  color: orange;
+}
+
+
+#chemistry{
+  font-family: cursive;
+}
+
+#symbol{
+  color: blue;
+}
+
+h2{
   color: brown;
 }
 
@@ -16,38 +66,6 @@ h4{
   color: brown;
 }
 
-#symbol{
-  color: blue;
-}
-
-#c{
-  color:red;
-}
-#h{
-  color: orange;
-}
-#e{
-  color: indigo;
-}
-#m{
-  color: green;
-}
-#i{
-  color: blue;
-}
-#s{
-  color: indigo;
-}
-#t{
-  color: violet;
-}
-#r{
-  color: red;
-}
-#y{
-  color: orange;
-}
-
-.copyright{
-  text-align: center;
+.italic{
+  font-style: italic;
 }
